@@ -8,7 +8,7 @@ const MainNavgation = () => {
     return (
         <header className={classes.header}>
             <div className={classes.logo}>
-                React Meetups
+            Meetups Regina
             </div>
             <nav>
                 <ul>
